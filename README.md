@@ -23,7 +23,7 @@ It includes a navigation bar, image slider, and multiple pages like Home, About,
 
 - **Frontend:** React
 - **Build Tool:** Vite
-- **Styling:** CSS
+- **Styling:** React Bootstrap
 - **Routing:** React Router (if added)
 - **Version Control:** Git & GitHub
 
