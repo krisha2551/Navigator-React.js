@@ -56,9 +56,20 @@ src/
 ## 📸 Screenshots
 
 - Home Page with Image Slider
+  
+  <img width="1920" height="1331" alt="image" src="https://github.com/user-attachments/assets/180ed402-8059-4402-903a-cd6f8992fb11" />
+
 - About Us Section
+  
+  <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/cd576809-27aa-4007-a225-9264173292e6" />
+
 - Services Cards
+  
+  <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/bddac2c5-b1b3-4756-9f42-4728a9ef7100" />
+
 - Contact Form
+  
+  <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/8c31e720-a9ac-4d04-963d-b60ca8028298" />
 
 
 ---
