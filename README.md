@@ -31,25 +31,24 @@ It includes a navigation bar, image slider, and multiple pages like Home, About,
 
 ## 📁 Project Structure
 
-src/
-│
-├── assets/
-│
-├── components/
-│ ├── ImageSlider.jsx
-│ └── NavigationBar.jsx
-│
-├── pages/
-│ ├── Home.jsx
-│ ├── About.jsx
-│ ├── Services.jsx
-│ └── Contact.jsx
-│
-├── App.jsx
-├── main.jsx
-├── App.css
-└── index.css
-
+src/<br>
+│<br>
+├── assets/<br>
+│<br>
+├── components/<br>
+│&nbsp;&nbsp;├── ImageSlider.jsx<br>
+│&nbsp;&nbsp;└── NavigationBar.jsx<br>
+│<br>
+├── pages/<br>
+│&nbsp;&nbsp;├── Home.jsx<br>
+│&nbsp;&nbsp;├── About.jsx<br>
+│&nbsp;&nbsp;├── Services.jsx<br>
+│&nbsp;&nbsp;└── Contact.jsx<br>
+│<br>
+├── App.jsx<br>
+├── main.jsx<br>
+├── App.css<br>
+└── index.css<br>
 
 ---
 
